@@ -25,7 +25,10 @@
     "noFallthroughCasesInSwitch": true,
     "noUncheckedSideEffectImports": true,
     /* Recommended for cross-OS consistency */
-    "forceConsistentCasingInFileNames": true
+    "forceConsistentCasingInFileNames": true,
+    "types": [
+      "lodash"
+    ]
   },
   "include": [
     "src"
